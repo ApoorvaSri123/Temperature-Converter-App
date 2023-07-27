@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Temperature Converter</string>
+    <string name="celsius_to_kelvin">Convert Celsius to Kelvin</string>
+    <string name="convert">Convert</string>
+    <string name="result_placeholder">Result will be shown here</string>
+    <string name="error_empty_input">Please enter a temperature value.</string>
+</resources>
